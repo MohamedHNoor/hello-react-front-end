@@ -105,7 +105,7 @@ Example commands:
 
 ```sh
   cd your-folder
-  git clone https://github.com/MohamedHNoor/hello-rails-react.git
+  git clone https://github.com/MohamedHNoor/hello-react-front-end.git
 ```
 
 ### Install
@@ -169,7 +169,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MohamedHNoor/hello-rails-react/issues).
+Feel free to check the [issues page](https://github.com/MohamedHNoor/hello-react-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
