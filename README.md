@@ -36,7 +36,7 @@
 
 # 📖 hello-react-front-end <a name="about-project"></a>
 
-**hello-react-front-end** is a web application that displays random greetings from rails api. Run the rails server first before running the React app. The Rails API repo is [here](). Run the react app with `localhost:3001`.
+**hello-react-front-end** is a web application that displays random greetings from rails api. Run the rails server first before running the React app. The rails server is available [here](https://github.com/MohamedHNoor/Hello-world-backend.git).Run the react app with `localhost:3001`
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,8 +91,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
+- Rails API Repo [here](https://github.com/MohamedHNoor/Hello-world-backend.git)
+
 ```sh
-  Rails API repo [here]()
+  npm install
 ```
 
 ### Setup
@@ -103,7 +105,7 @@ Example commands:
 
 ```sh
   cd your-folder
-  git clone https://github.com/MohamedHNoor/Hello-world-backend.git
+  git clone https://github.com/MohamedHNoor/hello-rails-react.git
 ```
 
 ### Install
@@ -114,7 +116,7 @@ Example command:
 
 ```sh
   cd my-project
-  bundle install
+  npm install
 ```
 
 ### Usage
@@ -167,7 +169,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MohamedHNoor/Hello-world-backend/issues).
+Feel free to check the [issues page](https://github.com/MohamedHNoor/hello-rails-react/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
